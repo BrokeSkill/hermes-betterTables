@@ -1,0 +1,11 @@
+manifest_version: 1
+name: nice-tables
+version: "0.1.0"
+description: Restyle the Hermes Desktop markdown tables. Rounded cards, a tinted uppercase header, zebra rows, and row hover across the transcript, tool details, and the file preview rail.
+author: BrokeSkill
+license: MIT
+tags:
+  - desktop
+  - markdown
+  - tables
+  - ui
